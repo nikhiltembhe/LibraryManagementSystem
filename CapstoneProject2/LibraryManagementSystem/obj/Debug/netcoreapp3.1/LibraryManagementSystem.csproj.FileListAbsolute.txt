@@ -1,0 +1,14 @@
+E:\Birlasoft\Capstone Project 2\CapstoneProject2\LibraryManagementSystem\bin\Debug\netcoreapp3.1\LibraryManagementSystem.exe
+E:\Birlasoft\Capstone Project 2\CapstoneProject2\LibraryManagementSystem\bin\Debug\netcoreapp3.1\LibraryManagementSystem.deps.json
+E:\Birlasoft\Capstone Project 2\CapstoneProject2\LibraryManagementSystem\bin\Debug\netcoreapp3.1\LibraryManagementSystem.runtimeconfig.json
+E:\Birlasoft\Capstone Project 2\CapstoneProject2\LibraryManagementSystem\bin\Debug\netcoreapp3.1\LibraryManagementSystem.runtimeconfig.dev.json
+E:\Birlasoft\Capstone Project 2\CapstoneProject2\LibraryManagementSystem\bin\Debug\netcoreapp3.1\LibraryManagementSystem.dll
+E:\Birlasoft\Capstone Project 2\CapstoneProject2\LibraryManagementSystem\bin\Debug\netcoreapp3.1\LibraryManagementSystem.pdb
+E:\Birlasoft\Capstone Project 2\CapstoneProject2\LibraryManagementSystem\obj\Debug\netcoreapp3.1\LibraryManagementSystem.csproj.AssemblyReference.cache
+E:\Birlasoft\Capstone Project 2\CapstoneProject2\LibraryManagementSystem\obj\Debug\netcoreapp3.1\LibraryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\Birlasoft\Capstone Project 2\CapstoneProject2\LibraryManagementSystem\obj\Debug\netcoreapp3.1\LibraryManagementSystem.AssemblyInfoInputs.cache
+E:\Birlasoft\Capstone Project 2\CapstoneProject2\LibraryManagementSystem\obj\Debug\netcoreapp3.1\LibraryManagementSystem.AssemblyInfo.cs
+E:\Birlasoft\Capstone Project 2\CapstoneProject2\LibraryManagementSystem\obj\Debug\netcoreapp3.1\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+E:\Birlasoft\Capstone Project 2\CapstoneProject2\LibraryManagementSystem\obj\Debug\netcoreapp3.1\LibraryManagementSystem.dll
+E:\Birlasoft\Capstone Project 2\CapstoneProject2\LibraryManagementSystem\obj\Debug\netcoreapp3.1\LibraryManagementSystem.pdb
+E:\Birlasoft\Capstone Project 2\CapstoneProject2\LibraryManagementSystem\obj\Debug\netcoreapp3.1\LibraryManagementSystem.genruntimeconfig.cache
